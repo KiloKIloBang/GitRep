@@ -1,0 +1,13 @@
+D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.csprojAssemblyReference.cache
+D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.AssemblyInfoInputs.cache
+D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.AssemblyInfo.cs
+D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.csproj.CoreCompileInputs.cache
+D:\Git\Metod\bin\Debug\netcoreapp3.1\Metod.exe
+D:\Git\Metod\bin\Debug\netcoreapp3.1\Metod.deps.json
+D:\Git\Metod\bin\Debug\netcoreapp3.1\Metod.runtimeconfig.json
+D:\Git\Metod\bin\Debug\netcoreapp3.1\Metod.runtimeconfig.dev.json
+D:\Git\Metod\bin\Debug\netcoreapp3.1\Metod.dll
+D:\Git\Metod\bin\Debug\netcoreapp3.1\Metod.pdb
+D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.dll
+D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.pdb
+D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.genruntimeconfig.cache
