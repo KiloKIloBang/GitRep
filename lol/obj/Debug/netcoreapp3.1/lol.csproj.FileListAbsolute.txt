@@ -1,0 +1,13 @@
+D:\GitRep\lol\bin\Debug\netcoreapp3.1\lol.exe
+D:\GitRep\lol\bin\Debug\netcoreapp3.1\lol.deps.json
+D:\GitRep\lol\bin\Debug\netcoreapp3.1\lol.runtimeconfig.json
+D:\GitRep\lol\bin\Debug\netcoreapp3.1\lol.runtimeconfig.dev.json
+D:\GitRep\lol\bin\Debug\netcoreapp3.1\lol.dll
+D:\GitRep\lol\bin\Debug\netcoreapp3.1\lol.pdb
+D:\GitRep\lol\obj\Debug\netcoreapp3.1\lol.csprojAssemblyReference.cache
+D:\GitRep\lol\obj\Debug\netcoreapp3.1\lol.AssemblyInfoInputs.cache
+D:\GitRep\lol\obj\Debug\netcoreapp3.1\lol.AssemblyInfo.cs
+D:\GitRep\lol\obj\Debug\netcoreapp3.1\lol.csproj.CoreCompileInputs.cache
+D:\GitRep\lol\obj\Debug\netcoreapp3.1\lol.dll
+D:\GitRep\lol\obj\Debug\netcoreapp3.1\lol.pdb
+D:\GitRep\lol\obj\Debug\netcoreapp3.1\lol.genruntimeconfig.cache
