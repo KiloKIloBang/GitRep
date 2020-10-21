@@ -4,39 +4,62 @@ namespace Metod
 {
     class Program
     {
+        static void Up(ref int[] mass)
+        {
+            Console.WriteLine("Введите число на которое у хотите увеличить массив");
+            int add = Convert.ToInt32(Console.ReadLine());
+            int[] temp = new int[mass.Length];
+            Array.Copy(mass, temp, mass.Length);
+            mass = new int[mass.Length + add];
+            Array.Copy(temp, mass, temp.Length);
+            
+
+        }
+
+        static void Down(ref int[] mass)
+        {
+            Console.WriteLine("Введите число на которое у хотите уменьшить массив");
+            int rem = Convert.ToInt32(Console.ReadLine());
+            int[] temp = new int[mass.Length];
+            Array.Copy(mass, temp, mass.Length);
+            mass = new int[mass.Length - rem];
+            Array.Copy(temp, mass, temp.Length- rem);
+        }
         static void Main(string[] args)
         {
-            int[] original = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-            int vvod = Convert.ToInt32(Console.Read());
-            Dz(ref original);
-            for (int q = 0;q<original.Length ;q++)
+            do
             {
-                Console.Write(" " + q);
-            }
-        }
-        static int Dz(ref int[] a)
-        {
-            
-           
-            int k = Convert.ToInt32(Console.Read());
-            int[] copia = new int[k];
-            int vvod = 0;
-            if (vvod == 1) // увеличение
-            {
-                for(int q = 0; q<a.Length ;q++ )
+                //Рандомный массив
+                int[] original = new int[10];
+                Random ran = new Random();
+                for (int i = 0; i < original.Length; i++)
                 {
-                    copia[q] = a[q];
+                    original[i] = ran.Next(10);
+
                 }
-                return copia[k];
-            }
-            else // уменьшение 
-            {
-                for(int q = 0 ;q < copia.Length;q++ )
+                //Вывод на экран 
+                for (int i = 0; i < original.Length; i++)
                 {
-                    copia[q] = a[q];
+                    Console.Write(" " + original[i]);
                 }
-                return copia[k];
+                Console.WriteLine();
+                Console.WriteLine("Введите 1 что бы увеличить массив или 2 что бы уменьшить его");
+                int q = Convert.ToInt32(Console.ReadLine());
+                    if (q == 1) 
+                {
+                    Up(ref original);
+                }
+                else
+                {
+                    Down(ref original);
+                }
+                for (int i = 0; i < original.Length; i++)
+                {
+                    Console.Write(" " + original[i]);
+                }
+                Console.WriteLine();
             }
+            while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
     }
 }

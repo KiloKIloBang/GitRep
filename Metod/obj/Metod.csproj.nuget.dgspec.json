@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Metod\\Metod.csproj": {}
+    "D:\\GitRep\\Metod\\Metod.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Metod\\Metod.csproj": {
+    "D:\\GitRep\\Metod\\Metod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Metod\\Metod.csproj",
+        "projectUniqueName": "D:\\GitRep\\Metod\\Metod.csproj",
         "projectName": "Metod",
-        "projectPath": "D:\\Git\\Metod\\Metod.csproj",
+        "projectPath": "D:\\GitRep\\Metod\\Metod.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Metod\\obj\\",
+        "outputPath": "D:\\GitRep\\Metod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

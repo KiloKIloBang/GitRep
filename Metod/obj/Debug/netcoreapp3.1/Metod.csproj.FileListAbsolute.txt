@@ -11,3 +11,16 @@ D:\Git\Metod\bin\Debug\netcoreapp3.1\Metod.pdb
 D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.dll
 D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.pdb
 D:\Git\Metod\obj\Debug\netcoreapp3.1\Metod.genruntimeconfig.cache
+D:\GitRep\Metod\bin\Debug\netcoreapp3.1\Metod.exe
+D:\GitRep\Metod\bin\Debug\netcoreapp3.1\Metod.deps.json
+D:\GitRep\Metod\bin\Debug\netcoreapp3.1\Metod.runtimeconfig.json
+D:\GitRep\Metod\bin\Debug\netcoreapp3.1\Metod.runtimeconfig.dev.json
+D:\GitRep\Metod\bin\Debug\netcoreapp3.1\Metod.dll
+D:\GitRep\Metod\bin\Debug\netcoreapp3.1\Metod.pdb
+D:\GitRep\Metod\obj\Debug\netcoreapp3.1\Metod.csprojAssemblyReference.cache
+D:\GitRep\Metod\obj\Debug\netcoreapp3.1\Metod.AssemblyInfoInputs.cache
+D:\GitRep\Metod\obj\Debug\netcoreapp3.1\Metod.AssemblyInfo.cs
+D:\GitRep\Metod\obj\Debug\netcoreapp3.1\Metod.csproj.CoreCompileInputs.cache
+D:\GitRep\Metod\obj\Debug\netcoreapp3.1\Metod.dll
+D:\GitRep\Metod\obj\Debug\netcoreapp3.1\Metod.pdb
+D:\GitRep\Metod\obj\Debug\netcoreapp3.1\Metod.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\lol\\lol.csproj": {}
+    "D:\\GitRep\\lol\\lol.csproj": {}
   },
   "projects": {
-    "D:\\Git\\lol\\lol.csproj": {
+    "D:\\GitRep\\lol\\lol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\lol\\lol.csproj",
+        "projectUniqueName": "D:\\GitRep\\lol\\lol.csproj",
         "projectName": "lol",
-        "projectPath": "D:\\Git\\lol\\lol.csproj",
+        "projectPath": "D:\\GitRep\\lol\\lol.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\lol\\obj\\",
+        "outputPath": "D:\\GitRep\\lol\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
